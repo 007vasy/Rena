@@ -25,6 +25,7 @@
     "test": "npx hardhat test",
     "build": "npx hardhat compile",
     "deploy": "npx hardhat run deployment/full_deployment.ts",
-    "coverage": "npx hardhat coverage"
+    "coverage": "npx hardhat coverage",
+    "node": "npx hardhat node"
   }
 }
